@@ -1,0 +1,38 @@
+{
+ "pearl-cur": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ },
+ "pearl-A": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ },
+ "pearl-B": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ },
+ "midnight-cur": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ },
+ "midnight-A": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ },
+ "midnight-B": {
+  "frames": 229,
+  "dropped": 0,
+  "max": "16.8",
+  "avg": "16.67"
+ }
+}
