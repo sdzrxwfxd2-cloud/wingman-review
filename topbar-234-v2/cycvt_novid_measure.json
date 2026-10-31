@@ -1,0 +1,136 @@
+{
+ "pearl_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1596,
+  "maxFrame": 166.7,
+  "over25": 146,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "champagne_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1630,
+  "maxFrame": 216.7,
+  "over25": 127,
+  "bad": [
+   [
+    "open",
+    0,
+    {
+     "cls": [
+      "wm-vt",
+      "wm-vt-open"
+     ],
+     "pinned": [],
+     "vis": [
+      "wmF-ad"
+     ],
+     "state": "ad",
+     "hash": "#ad/FAGG",
+     "y": 0
+    }
+   ]
+  ],
+  "nbad": 1,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "midnight_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1600,
+  "maxFrame": 166.7,
+  "over25": 135,
+  "bad": [
+   [
+    "open",
+    0,
+    {
+     "cls": [
+      "wm-vt",
+      "wm-vt-open"
+     ],
+     "pinned": [],
+     "vis": [
+      "wmF-ad"
+     ],
+     "state": "ad",
+     "hash": "#ad/FAGG",
+     "y": 0
+    }
+   ]
+  ],
+  "nbad": 1,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "amethyst_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1623,
+  "maxFrame": 150,
+  "over25": 129,
+  "bad": [
+   [
+    "open",
+    0,
+    {
+     "cls": [
+      "wm-vt",
+      "wm-vt-open"
+     ],
+     "pinned": [],
+     "vis": [
+      "wmF-ad"
+     ],
+     "state": "ad",
+     "hash": "#ad/FAGG",
+     "y": 0
+    }
+   ]
+  ],
+  "nbad": 1,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "midnight_ipad": {
+  "y0": 1400,
+  "drift": [
+   0
+  ],
+  "frames": 1108,
+  "maxFrame": 150,
+  "over25": 477,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ }
+}

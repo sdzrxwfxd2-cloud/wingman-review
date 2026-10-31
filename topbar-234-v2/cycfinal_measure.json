@@ -1,0 +1,98 @@
+{
+ "pearl_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1711,
+  "maxFrame": 166.5,
+  "over25": 174,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "champagne_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1733,
+  "maxFrame": 150,
+  "over25": 144,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "midnight_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1662,
+  "maxFrame": 200,
+  "over25": 193,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "amethyst_phone": {
+  "y0": 2431,
+  "drift": [
+   0
+  ],
+  "frames": 1699,
+  "maxFrame": 166.7,
+  "over25": 167,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "midnight_ipad": {
+  "y0": 1400,
+  "drift": [
+   0
+  ],
+  "frames": 1315,
+  "maxFrame": 166.6,
+  "over25": 450,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ },
+ "pearl_ipad": {
+  "y0": 1400,
+  "drift": [
+   0
+  ],
+  "frames": 1253,
+  "maxFrame": 133.3,
+  "over25": 492,
+  "bad": [],
+  "nbad": 0,
+  "atoBad": [],
+  "errs": [
+   "Object",
+   "Object"
+  ]
+ }
+}
